@@ -38,3 +38,13 @@ var compare=function(choice1,choice2){
     
 }
 console.log(compare(userChoice,computerChoice));
+
+
+
+
+
+[ I am learning pull request ]
+
+
+
+
